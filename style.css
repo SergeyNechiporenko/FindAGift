@@ -1,0 +1,21 @@
+body {
+	background-color: #FFFFC9;
+}
+
+h1 {
+	text-align: center;
+	color: #BB242D;
+}
+
+#map {
+	width: 750px;
+	margin: 0 auto;
+}
+
+img {
+	cursor: pointer;
+}
+
+#hint {
+	text-align: center;
+}
